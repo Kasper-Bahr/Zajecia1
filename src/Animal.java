@@ -1,4 +1,4 @@
-import org.jetbrains.annotations.NotNull;
+
 
 /* public class Animal {
     private static final Double DEFAULT_DOG_WEIGHT = 12.3;
