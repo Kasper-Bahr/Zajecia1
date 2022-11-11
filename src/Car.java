@@ -12,9 +12,10 @@ public class Car {
         this.model = model;
         this.przebieg = przebieg;
         this.kolor = kolor;
+
     }
 public String toString(){
-        return "producent: " + this.producent + " " +  "model: " + this.model;
+       return "producent: " + this.producent + " " +  "model: " + this.model;
 
 }
 
